@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "driver": "pg",
+    "user": "root",
+    "password": "password",
+    "host": "localhost",
+    "database": "esl_toolkit",
+    "port": 5432
+  }
+}
